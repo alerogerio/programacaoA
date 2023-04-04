@@ -1,3 +1,16 @@
-header {
+.cabecalho {
     background: #CCD5AE;
+}
+.logo{
+width: 500px; 
+position: relative; 
+top: 150px; 
+left: 800px; 
+}
+.listacabecalho{
+    display: flex;
+} 
+.item{
+    font-size: 50px;
+    color: blueviolet;
 }
