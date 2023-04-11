@@ -9,8 +9,15 @@ left: 800px;
 }
 .listacabecalho{
     display: flex;
+    position: relative;
+    left: 600px;
 } 
 .item{
     font-size: 50px;
     color: blueviolet;
+    margin-left: 350px;
+
+}
+.grupodeestudo{
+background-image: linear-gradient(#CCD5AE,#D8D4BB);
 }
