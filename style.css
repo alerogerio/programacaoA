@@ -1,3 +1,7 @@
+body{
+    font-family: sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .cabecalho {
     background: #CCD5AE;
 }
@@ -21,3 +25,18 @@ left: 800px;
 .grupodeestudo{
 background-image: linear-gradient(#CCD5AE,#D8D4BB);
 }
+.secaocursita{
+    background-color: #FEFAE0;
+
+}
+.titulocursista{
+    font-size: 30px;
+    font-family: Verdana;
+    color: green;
+    text-align: center;
+}
+.cursitasdiv{
+    margin: 60px;
+}
+
+
